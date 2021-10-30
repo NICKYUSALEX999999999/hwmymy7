@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  body {
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+  }
+  
+  .header {
+    width: 1300px;
+    height: 600px;
+    background-color: rgb(6, 6, 240);
+    font-size: 19px;
+    color: rgb(82, 84, 87);
+    margin: 200px auto 0;
+    border-radius: 15px;
+    position: relative;
+    padding: 60px;
+  }
+  
+  .title {
+    margin-bottom: 30px;
+  }
+  .text {
+    font-size: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .button {
+    background-color: rgb(241, 222, 185);
+    color: #000;
+    padding: 20px 65px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 50px;
+  }
+  
+  .img {
+    position: absolute;
+    position: absolute;
+    width: 44%;
+    top: -158px;
+    left: 718px;
+  }
